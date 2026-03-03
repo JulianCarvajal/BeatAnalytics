@@ -1,2 +1,2 @@
 # BeatAnalytics
-Proyecto final de Modelos y simulación de sistemas II ( Profe ponganos 5 x fa :) )
+Proyecto final de Fundamentos de ciencias de datos ( Profe ponganos 5 x fa :) )
